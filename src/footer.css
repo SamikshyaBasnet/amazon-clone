@@ -1,0 +1,14 @@
+.footer {
+    background-color: rgb(5, 5, 17);
+    background-color: #131A22;
+    color: white;
+    margin-bottom: 0px;
+    /* display: flex;
+    justify-content: space-evenly; */
+    padding: 60px;
+    overflow-x: hidden !important;
+}
+
+.content>p {
+    font-size: 14px;
+}
